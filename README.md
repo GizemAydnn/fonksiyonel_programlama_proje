@@ -1,0 +1,1 @@
+# fonksiyonel_programlama_proje
